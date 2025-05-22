@@ -19,6 +19,7 @@
       "purpose": "http://dbpedia.org/ontology/purpose",
       "historical_note": "http://www.w3.org/2000/01/rdf-schema#comment",
       "protection_association": "http://aims.fao.org/aos/agrovoc/c_37955",
+      "City": "http://dbpedia.org/ontology/City",
       "Performance": "http://dbpedia.org/resource/Performance",
       "Festival": "http://dbpedia.org/resource/Festival",
       "Craft": "http://dbpedia.org/resource/Craft",

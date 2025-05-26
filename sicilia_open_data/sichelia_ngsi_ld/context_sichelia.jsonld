@@ -1,15 +1,6 @@
 {
   "@context": [
     {
-      "name": "https://schema.org/name",
-      "website": "http://schema.org/url",
-      "nativeName": "http://dbpedia.org/ontology/nativeName",
-      "postalCode": "http://dbpedia.org/ontology/postalCode",
-      "image": "http://schema.org/image",
-      "hasProvince": "http://dbpedia.org/ontology/Province",
-      "isLocatedAt": "http://dbpedia.org/ontology/location",
-      "wikidata": "http://dbpedia.org/ontology/wikiPageID",
-      "description": "http://schema.org/description",
       "date": "http://dbpedia.org/ontology/date",
       "location": "http://dbpedia.org/ontology/location",
       "participants": "https://dbpedia.org/page/Social_engagement",
@@ -19,6 +10,7 @@
       "purpose": "http://dbpedia.org/ontology/purpose",
       "historical_note": "http://www.w3.org/2000/01/rdf-schema#comment",
       "protection_association": "http://aims.fao.org/aos/agrovoc/c_37955",
+      "actor": "https://dbpedia.org/page/Actor",
       "City": "http://dbpedia.org/ontology/City",
       "Festival": "http://dbpedia.org/resource/Festival",
       "Craft": "http://dbpedia.org/resource/Craft",

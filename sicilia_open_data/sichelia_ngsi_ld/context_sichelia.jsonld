@@ -1,5 +1,6 @@
 {
   "@context": [
+    "https://raw.githubusercontent.com/netsensesrl/datahighway-opendata/refs/heads/main/ngsi_ld/context.jsonld",
     {
       "date": "http://dbpedia.org/ontology/date",
       "location": "http://dbpedia.org/ontology/location",

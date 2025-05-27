@@ -47,6 +47,7 @@
       "AlcoholicBeverage": "http://dbpedia.org/resource/Alcoholic_beverage",
       "Honey": "http://dbpedia.org/resource/Honey"
     },
+    "https://raw.githubusercontent.com/netsensesrl/datahighway-opendata/refs/heads/main/ngsi_ld/context.jsonld",
     "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context-v1.6.jsonld"
   ]
 }

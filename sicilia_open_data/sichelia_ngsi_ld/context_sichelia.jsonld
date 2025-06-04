@@ -11,7 +11,6 @@
       "historical_note": "http://www.w3.org/2000/01/rdf-schema#comment",
       "protection_association": "http://aims.fao.org/aos/agrovoc/c_37955",
       "actor": "https://dbpedia.org/page/Actor",
-      "City": "http://dbpedia.org/ontology/City",
       "Festival": "http://dbpedia.org/resource/Festival",
       "Craft": "http://dbpedia.org/resource/Craft",
       "LivingNationalTreasure": "http://dbpedia.org/resource/Living_national_treasure",

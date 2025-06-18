@@ -1,6 +1,7 @@
 {
   "@context": [
     {
+      "bibliography": "https://schema.org/citation",
       "date": "http://dbpedia.org/ontology/date",
       "location": "http://dbpedia.org/ontology/location",
       "participants": "https://dbpedia.org/page/Social_engagement",

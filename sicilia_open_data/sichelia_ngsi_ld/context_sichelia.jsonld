@@ -1,6 +1,7 @@
 {
   "@context": [
     {
+      "storageLocationDescription": "https://schema.org/place",
       "instruments": "https://schema.org/instrument",
       "processingAgingMethods": "https://schema.org/HowTo",
       "bibliography": "https://schema.org/citation",

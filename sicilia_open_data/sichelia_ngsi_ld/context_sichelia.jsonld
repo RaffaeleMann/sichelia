@@ -1,6 +1,7 @@
 {
   "@context": [
     {
+      "agingDenomination": "http://purl.obolibrary.org/obo/ONS_0000160",
       "storageLocationDescription": "https://schema.org/place",
       "instruments": "https://schema.org/instrument",
       "processingAgingMethods": "https://schema.org/HowTo",

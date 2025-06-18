@@ -1,6 +1,7 @@
 {
   "@context": [
     {
+      "processingAgingMethods": "https://schema.org/HowTo",
       "bibliography": "https://schema.org/citation",
       "date": "http://dbpedia.org/ontology/date",
       "location": "http://dbpedia.org/ontology/location",

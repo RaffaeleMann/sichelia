@@ -1,6 +1,9 @@
 {
   "@context": [
     {
+      "productProvenance":"http://aims.fao.org/aos/agrovoc/c_16022",
+      "ripeningStage":"http://purl.obolibrary.org/obo/PO_0025502",
+      "productClassification":"http://purl.obolibrary.org/obo/FOODON_03401220",
       "agingDenomination": "http://purl.obolibrary.org/obo/ONS_0000160",
       "storageLocationDescription": "https://schema.org/place",
       "instruments": "https://schema.org/instrument",

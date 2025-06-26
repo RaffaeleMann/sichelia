@@ -1,8 +1,25 @@
 # Sichelia
 
-## Sichelia Discovery - Web App Desktop
+**Sichelia** è un progetto volto alla valorizzazione e interoperabilità dei dati culturali siciliani, attraverso la **conversione**, l'**arricchimento semantico** e la **trasformazione in formato NGSI-LD**, lo standard per la rappresentazione di entità nel contesto delle **Smart Cities** e dell’**Internet of Things**.
+
+## Obiettivi del progetto
+
+- **Recupero e conversione** degli Open Data pubblicati sul portale open data della Regione Siciliana.
+- **Arricchimento semantico** dei dataset con metadati aggiuntivi (es. coordinate geografiche, entità culturali collegate, categorie semantiche).
+- **Collegamento (Linked Data)** a fonti esterne come **DBpedia**, **Wikidata** e ontologie di dominio.
+- **Trasformazione in NGSI-LD** per supportare applicazioni intelligenti e interoperabili nel dominio del patrimonio culturale.
+
+
+
+## Sichelia Discovery 
 
 **Sichelia Discovery** è una web application desktop pensata per esplorare e valorizzare il patrimonio culturale immateriale della Sicilia. Attraverso una mappa interattiva e strumenti di ricerca avanzati, permette di scoprire tradizioni, luoghi e manifestazioni culturali distribuiti sul territorio siciliano.
+
+##  Applicazione web
+
+Il progetto include un'applicazione web per l'esplorazione dei dati culturali siciliani su mappa, con funzionalità di **ricerca** e **filtro tematico**:
+
+🔗 [Vai all'applicazione web](https://nlpgroup.unior.it/dahlia_nlp/sichelia_discovery/)
 
 ---
 
@@ -27,9 +44,3 @@ Azione 1.1.1 “Investimenti qualificati per lo sviluppo e il potenziamento dell
 Completamento graduatoria Azione 1.1.5 del PO FESR Sicilia 2014/2020.
 
 ---
-
-## Maggiori informazioni
-
-Per scoprire di più sul progetto Sichelia e accedere all’applicazione, visita :
-
-[Sichelia Web App](https://nlpgroup.unior.it/dahlia_nlp/sichelia_discovery/)

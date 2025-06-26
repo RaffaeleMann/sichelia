@@ -1,4 +1,4 @@
-# Sichelia Project
+# Sichelia
 
 ## Sichelia Discovery - Web App Desktop
 
